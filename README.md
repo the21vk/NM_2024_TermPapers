@@ -1,2 +1,3 @@
 # NM_2024_TermPapers
-Repo for term papers for the Numerical Methods Course 2024.
+
+Please upload your term papers in the apropriate directories. 
