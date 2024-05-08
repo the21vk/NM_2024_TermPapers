@@ -1,3 +1,3 @@
 # NM_2024_TermPapers
 
-Please upload your term papers in the apropriate directories. 
+Please upload your term papers in the appropriate directories. 
